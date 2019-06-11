@@ -1,3 +1,6 @@
+# Mirar esto!!
+falta el archivo con las api keys... sacar de firebase
+
 # Angular7Portfolio
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.2.
